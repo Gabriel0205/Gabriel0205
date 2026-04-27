@@ -14,5 +14,4 @@
                                                                                 
   ## Contato
                                                                                 
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-João%20Gabriel-blue?logo=li
-  nkedin)](www.linkedin.com/in/joaogabrielcorreia)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-João%20Gabriel-blue?logo=linkedin)](https://www.linkedin.com/in/joaogabrielcorreia)
