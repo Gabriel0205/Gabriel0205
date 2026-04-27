@@ -1,16 +1,18 @@
-## Hi there 👋
-
-<!--
-**Gabriel0205/Gabriel0205** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ # Olá, sou João Gabriel 👋                                                    
+                                                                                
+  Engenheiro de Computação, desenvolvedor em formação e pós-graduando em        
+  Engenharia SST.                                                               
+  Atualmente aprendendo na prática dentro de um projeto SaaS real — não só em
+  tutoriais.                                                                    
+  Curioso sobre como a tecnologia pode resolver problemas que importam.
+                                                                                
+  ## O que estou aprendendo agora
+                                                                                
+  - Desenvolvimento web na prática (React, Node.js, PostgreSQL)                 
+  - Segurança da informação
+  - Inteligência Artificial — explorando ferramentas e conceitos                
+                                                                                
+  ## Contato
+                                                                                
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-João%20Gabriel-blue?logo=li
+  nkedin)](www.linkedin.com/in/joaogabrielcorreia)
